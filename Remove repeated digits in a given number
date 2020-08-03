@@ -1,0 +1,15 @@
+#code
+for _ in range(int(input())):
+    s=input()
+    l=[]
+    for i in s:
+        l.append(int(i))
+    
+    l1=[]
+    l1.append(l[0])
+    for i in range(1,len(l)):
+        if(l[i-1] != l[i]):
+            l1.append(l[i])
+    for i in l1:
+        print(i,end='')
+    print()
