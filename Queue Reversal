@@ -1,0 +1,15 @@
+
+def reverseQueue(q):
+    #add code here
+    #initialized a empty list
+    l=[]
+    #removed items from queue and appended them one by one in list
+    for i in range(q.qsize()):
+        l.append(q.get())
+    #rversed the list
+    l.reverse()
+    #again appended the items one by one to queue in reversed order
+    for i in l:
+        q.put(i)
+    #returned queue    
+    return (q)
