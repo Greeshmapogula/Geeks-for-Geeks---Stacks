@@ -9,3 +9,5 @@ Created this repository to save the codes I have done in **Geeks for Geeks** *St
 3. *Remove repeated digits in a given number* : https://practice.geeksforgeeks.org/problems/remove-repeated-digits-in-a-given-number/0
 4. *Immediate Smaller Element* : https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0
 5. *Reverse a string using Stack * : https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1
+6. *Special Stack* : https://practice.geeksforgeeks.org/problems/special-stack/1
+
