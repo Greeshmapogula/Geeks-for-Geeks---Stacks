@@ -1,0 +1,5 @@
+def reverse(string):
+    
+    #Add code here
+
+    return (string[len(string)::-1])
