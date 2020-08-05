@@ -1,0 +1,5 @@
+def sorted(s):
+    # Code here
+    s.sort()
+    s.reverse()
+    return(s)
