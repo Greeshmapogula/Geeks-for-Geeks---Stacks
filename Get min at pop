@@ -1,0 +1,23 @@
+def _push(a,n):
+    '''
+    :param a: given array
+    :param n: given size of array
+    :return: stack
+    '''
+    # code here
+    #print(a)
+    return a
+    
+def _getMinAtPop(s):
+    '''
+    :param stack: our stack
+    :return: none, print the elements in order of pop one by one, new line is not required
+    '''
+    # code here
+    #print(s)
+    n=len(s)
+    l=s
+    for i in range(n):
+        print(min(l),end=' ')
+        l.pop()
+        
