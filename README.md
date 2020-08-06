@@ -13,3 +13,4 @@ Created this repository to save the codes I have done in **Geeks for Geeks** *St
 7. *Get minimum element from stack* : https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1/?track=sp-stack&batchId=105
 8. *Sort a stack* : https://practice.geeksforgeeks.org/problems/sort-a-stack/1/?track=sp-stack&batchId=105
 9. *Reverse First K elements of Queue* : https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1
+10. *Get min at pop* : https://practice.geeksforgeeks.org/problems/get-min-at-pop/1
