@@ -1,0 +1,10 @@
+def reverseK(q,k,n):
+    # code here
+    l=[]
+    for i in range(k):
+        l.append(q[i])
+    #print(l)
+    l.reverse()
+    for i in range(k,n):
+        l.append(q[i])
+    return (l)
