@@ -15,3 +15,4 @@ Created this repository to save the codes I have done in **Geeks for Geeks** *St
 9. *Reverse First K elements of Queue* : https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1
 10. *Get min at pop* : https://practice.geeksforgeeks.org/problems/get-min-at-pop/1
 11. *Delete middle element of a stack* : https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1
+12. *Max sum in sub-arrays* : https://practice.geeksforgeeks.org/problems/max-sum-in-sub-arrays/0
