@@ -1,0 +1,10 @@
+def deleteMid(s, sizeOfStack, current):
+    ##Your code here
+    if current==sizeOfStack//2:
+        s.pop()
+        return s
+    t=s[-1]
+    s.pop()
+    s=deleteMid(s,sizeOfStack,current+1)
+    s.append(t)
+    return s
